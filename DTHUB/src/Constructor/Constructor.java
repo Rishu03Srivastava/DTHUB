@@ -27,7 +27,7 @@ public class Constructor {
 	Constructor ab = new Constructor();
 	Constructor ab1 = new Constructor(3,6);
 	Constructor ab2 = new Constructor(2,4,5);
-	Constructor ab3 = new Constructor(8,7,4);
+	Constructor ab3 = new Constructor(8,7,4,9);
 	
 
 	}
